@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fattan Haydar Ahamad</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haydarahmad&label=Profile%20views&color=0e75b6&style=flat" alt="haydarahmad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haydarahmad" alt="haydarahmad" /></a> </p>
 
 - 📫 How to reach me **fattanhay0@gmail.com**
 
